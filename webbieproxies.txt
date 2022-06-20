@@ -1,0 +1,10 @@
+45.142.28.83:8094:ehaptfcd:0zkq1hubfn2g
+45.137.60.112:6640:ehaptfcd:0zkq1hubfn2g
+45.140.13.124:9137:ehaptfcd:0zkq1hubfn2g
+45.140.13.112:9125:ehaptfcd:0zkq1hubfn2g
+45.142.28.20:8031:ehaptfcd:0zkq1hubfn2g
+45.140.13.119:9132:ehaptfcd:0zkq1hubfn2g
+45.142.28.145:8156:ehaptfcd:0zkq1hubfn2g
+45.142.28.187:8198:ehaptfcd:0zkq1hubfn2g
+176.116.230.128:7214:ehaptfcd:0zkq1hubfn2g
+176.116.230.151:7237:ehaptfcd:0zkq1hubfn2g
